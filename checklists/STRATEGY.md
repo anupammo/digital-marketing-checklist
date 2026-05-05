@@ -104,8 +104,9 @@ Each checklist item contributes to a **weighted score**. Critical items carry hi
 5. User follows checklist → progress tracked in dashboard.  
 6. Score improves over time → benchmarked against industry averages.  
 
-## 📂 Recommended Folder Structure
+## 📂 Project Structure
 
+```plaintext
 digital-marketing-checklist/
 │
 ├── README.md                # Main project overview
@@ -113,6 +114,7 @@ digital-marketing-checklist/
 │
 ├── package.json             # Dependencies & scripts
 ├── .gitignore               # Git ignore rules
+│
 ├── /public                  # Static assets (icons, logos, manifest)
 │   ├── icon.png
 │   ├── manifest.json
@@ -131,9 +133,9 @@ digital-marketing-checklist/
 │   │   ├── Options.css
 │   │   └── Options.html
 │   └── utils/               # Helper functions
-│       ├── scoring.js       # Scoring model logic
-│       ├── checklistLoader.js # Loads checklist files
-│       └── reportGenerator.js # Generates reports (PDF/Markdown)
+│       ├── scoring.js          # Scoring model logic
+│       ├── checklistLoader.js  # Loads checklist files
+│       └── reportGenerator.js  # Generates reports (PDF/Markdown)
 │
 ├── /checklists              # Platform-specific audit checklists
 │   ├── facebook-page.md
@@ -156,6 +158,7 @@ digital-marketing-checklist/
     ├── checklist.test.js
     ├── scoring.test.js
     └── report.test.js
+
 
 ## 🔑 Key Design Notes
 
