@@ -1,7 +1,3 @@
-Perfect — let’s start building the **detailed checklist framework** for your extension. This will serve as the **scan-and-report blueprint** for each social media account. I’ll begin with **Facebook Page & Ads Manager**, then you can replicate the same structure for Instagram, LinkedIn, YouTube, etc.  
-
----
-
 # ✅ Social Media Account Checklist
 
 ## 🔹 Facebook Page & Ads Manager
@@ -42,9 +38,3 @@ Perfect — let’s start building the **detailed checklist framework** for your
 - [ ] Top-performing posts identified and replicated  
 - [ ] Audience demographics analyzed (age, location, interests)  
 - [ ] Conversion tracking set up (website clicks, leads, sales)  
-
----
-
-👉 This structure ensures your extension can **scan the Facebook Page**, detect missing elements, and generate a **step-by-step improvement report**.  
-
-Would you like me to **expand this same checklist format for Instagram Business Account next**, so you’ll have a consistent framework across all platforms?
