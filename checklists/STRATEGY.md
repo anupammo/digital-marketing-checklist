@@ -162,12 +162,12 @@ digital-marketing-checklist/
 
 ## 🔑 Key Design Notes
 
-- /checklists → Each platform has its own .md file (already created). The plugin loads these dynamically for audits.
+- `/checklists` → Each platform has its own .md file (already created). The plugin loads these dynamically for audits.
 
-- /src/utils/scoring.js → Implements the weighted scoring model (Account Setup 30%, Content 25%, Ads 15%, Security 15%, Analytics 15%).
+- `/src/utils/scoring.js` → Implements the weighted scoring model (Account Setup 30%, Content 25%, Ads 15%, Security 15%, Analytics 15%).
 
-- /src/utils/reportGenerator.js → Converts audit results into PDF/Markdown reports for export.
+- `/src/utils/reportGenerator.js` → Converts audit results into PDF/Markdown reports for export.
 
-- /reports → Stores generated reports (optional, can be user-download only).
+- `/reports` → Stores generated reports (optional, can be user-download only).
 
-- /tests → Ensures checklists and scoring logic are reliable.
+- `/tests` → Ensures checklists and scoring logic are reliable.
