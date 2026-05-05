@@ -54,8 +54,10 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/digital-marketing-checklist.git
+```
+```bash
 cd digital-marketing-checklist
-
+```
 
 Install dependencies:
 
