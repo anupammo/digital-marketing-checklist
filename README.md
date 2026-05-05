@@ -8,7 +8,7 @@ This project helps you implement **best practices across SEO, social media, and 
 ## 🚀 Features
 
 - **Real-Time Analysis** – Evaluate your brand’s digital presence instantly.  
-- **Social Media Coverage** – Checklist for essential accounts (Facebook, Instagram, LinkedIn, YouTube, TikTok, Pinterest, Twitter/X, Threads, WhatsApp Business).  
+- **Social Media Coverage** – Checklist for essential accounts ([Facebook](facebook-page.md), [Instagram](INSTAGRAM.md), [LinkedIn](LINKEDIN.md), [YouTube](YOUTUBE.md), [TikTok](TIKTOK.md), [Pinterest](PINTEREST.md), [Twitter/X](TWITTER-X.md), [Threads](THREADS.md), [WhatsApp Business](WHATSAPP.md), [Telegram](TELEGRAM.md)).  
 - **Business Listings** – Ensure presence on Google Business Profile, Bing Places, Apple Maps, Yelp, Trustpilot, and niche directories.  
 - **SEO Essentials** – On-page optimization, schema markup, meta tags, internal/external links, and content length validation.  
 - **Authority Signals** – Reviews, ratings, backlinks, and social proof tracking.  
@@ -20,14 +20,16 @@ This project helps you implement **best practices across SEO, social media, and 
 ## 📋 Best Practices Covered
 
 ### 🔹 Social Media Accounts
-- Facebook Page & Ads Manager  
-- Instagram Business Account  
-- LinkedIn Company Page  
-- YouTube Channel  
-- TikTok Business Account  
-- Pinterest Business Profile  
-- Twitter/X & Threads  
-- WhatsApp Business / Telegram Channel  
+- [Facebook Page & Ads Manager](facebook-page.md)  
+- [Instagram Business Account](INSTAGRAM.md)  
+- [LinkedIn Company Page](LINKEDIN.md)  
+- [YouTube Channel](YOUTUBE.md)  
+- [TikTok Business Account](TIKTOK.md)  
+- [Pinterest Business Profile](PINTEREST.md)  
+- [Twitter/X](TWITTER-X.md)  
+- [Threads](THREADS.md)  
+- [WhatsApp Business](WHATSAPP.md)  
+- [Telegram Channel](TELEGRAM.md)  
 
 ### 🔹 Business Listings
 - Google Business Profile (GBP)  
