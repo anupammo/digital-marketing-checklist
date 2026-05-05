@@ -1,4 +1,3 @@
-```markdown
 # 📈 Digital Marketing Checklist
 
 **Digital Marketing Checklist** is the ultimate tool to grow your **Brand / Product / Business** with effective strategies and real-time analysis for organic boost.  
@@ -56,7 +55,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/digital-marketing-checklist.git
 cd digital-marketing-checklist
-```
+
 
 Install dependencies:
 
