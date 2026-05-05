@@ -32,7 +32,7 @@ This project helps you implement **best practices across SEO, social media, and 
 - [Telegram Channel](TELEGRAM.md)  
 
 ### 🔹 Business Listings
-- [GOOGLE-BUSINESS.md](Google Business Profile {GBP})  
+- [Google Business Profile / GBP](GOOGLE-BUSINESS.md) 
 - Bing Places for Business  
 - Apple Maps Business Register  
 - Yelp / Yellow Pages / Justdial (India)  
