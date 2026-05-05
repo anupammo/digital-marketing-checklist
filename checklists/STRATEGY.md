@@ -30,8 +30,8 @@
 
 Each checklist item contributes to a **weighted score**. Critical items carry higher weight than optional ones.
 
-| Category              | Weight % | Example Critical Items                                                                 |
-|------------------------|----------|---------------------------------------------------------------------------------------|
+| Category               | Weight % | Example Critical Items                                                                 |
+|------------------------|----------|----------------------------------------------------------------------------------------|
 | Account Setup          | 30%      | Verified badge, accurate business info, profile/logo, website link                     |
 | Content & Engagement   | 25%      | Posting frequency, engagement rate, replies to comments/messages                       |
 | Ads & Promotions       | 15%      | Pixel installed, custom/lookalike audiences, A/B testing                               |
@@ -157,3 +157,14 @@ digital-marketing-checklist/
     ├── scoring.test.js
     └── report.test.js
 
+## 🔑 Key Design Notes
+
+- /checklists → Each platform has its own .md file (already created). The plugin loads these dynamically for audits.
+
+- /src/utils/scoring.js → Implements the weighted scoring model (Account Setup 30%, Content 25%, Ads 15%, Security 15%, Analytics 15%).
+
+- /src/utils/reportGenerator.js → Converts audit results into PDF/Markdown reports for export.
+
+- /reports → Stores generated reports (optional, can be user-download only).
+
+- /tests → Ensures checklists and scoring logic are reliable.
