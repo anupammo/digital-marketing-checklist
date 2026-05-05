@@ -128,6 +128,5 @@ See the `[Looks like the result wasn't safe to show. Let's switch things up and 
 Developed by **Anupam Mondal**  
 Full Stack Developer & Technical Consultant  
 14+ years professional experience in IT & Web Development
-```
 
 ---
