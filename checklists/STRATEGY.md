@@ -158,7 +158,7 @@ digital-marketing-checklist/
     ├── checklist.test.js
     ├── scoring.test.js
     └── report.test.js
-
+```
 
 ## 🔑 Key Design Notes
 
