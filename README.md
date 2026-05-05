@@ -124,5 +124,3 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 - 14+ years professional experience in IT & Web Development  
 - Specialized in SEO, Chrome Extensions, WordPress Plugins, and Business Growth Tools  
 ```
-
----
