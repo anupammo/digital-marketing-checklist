@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Digital Marketing Checklist Chrome Extension
 
 A Chrome extension that audits **social media accounts, business listings, and SEO** using structured checklists.  
@@ -79,6 +78,8 @@ digital-marketing-checklist/
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/digital-marketing-checklist.git
+   ```
+   ```bash
    cd digital-marketing-checklist
    ```
 
