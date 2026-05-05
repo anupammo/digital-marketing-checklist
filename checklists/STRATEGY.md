@@ -103,3 +103,57 @@ Each checklist item contributes to a **weighted score**. Critical items carry hi
 4. Report generated → “Missing verified badge on Facebook”, “No reviews on GBP”, “Instagram bio lacks CTA”.  
 5. User follows checklist → progress tracked in dashboard.  
 6. Score improves over time → benchmarked against industry averages.  
+
+## 📂 Recommended Folder Structure
+
+digital-marketing-checklist/
+│
+├── README.md                # Main project overview
+├── LICENSE                  # MIT License file
+│
+├── package.json             # Dependencies & scripts
+├── .gitignore               # Git ignore rules
+├── /public                  # Static assets (icons, logos, manifest)
+│   ├── icon.png
+│   ├── manifest.json
+│   └── index.html
+│
+├── /src                     # Core plugin source code
+│   ├── index.js             # Entry point
+│   ├── background.js        # Background tasks (scanning, reporting)
+│   ├── content.js           # Content scripts for DOM scanning
+│   ├── popup/               # UI for extension popup
+│   │   ├── Popup.js
+│   │   ├── Popup.css
+│   │   └── Popup.html
+│   ├── options/             # Settings page
+│   │   ├── Options.js
+│   │   ├── Options.css
+│   │   └── Options.html
+│   └── utils/               # Helper functions
+│       ├── scoring.js       # Scoring model logic
+│       ├── checklistLoader.js # Loads checklist files
+│       └── reportGenerator.js # Generates reports (PDF/Markdown)
+│
+├── /checklists              # Platform-specific audit checklists
+│   ├── facebook-page.md
+│   ├── INSTAGRAM.md
+│   ├── LINKEDIN.md
+│   ├── YOUTUBE.md
+│   ├── TIKTOK.md
+│   ├── PINTEREST.md
+│   ├── TWITTER-X.md
+│   ├── THREADS.md
+│   ├── WHATSAPP.md
+│   ├── TELEGRAM.md
+│   └── GBP.md               # Google Business Profile
+│
+├── /reports                 # Exported reports (PDF/Markdown)
+│   ├── sample-report.md
+│   └── audit-template.md
+│
+└── /tests                   # Unit & integration tests
+    ├── checklist.test.js
+    ├── scoring.test.js
+    └── report.test.js
+
