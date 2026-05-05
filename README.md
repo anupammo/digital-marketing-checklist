@@ -1,3 +1,4 @@
+```markdown
 # 📈 Digital Marketing Checklist
 
 **Digital Marketing Checklist** is the ultimate tool to grow your **Brand / Product / Business** with effective strategies and real-time analysis for organic boost.  
@@ -55,3 +56,70 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/digital-marketing-checklist.git
 cd digital-marketing-checklist
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm start
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 📖 Usage
+
+1. Launch the extension in your browser.  
+2. Run the **Digital Marketing Checklist** on any brand/product website.  
+3. Review the **real-time analysis report**.  
+4. Follow actionable recommendations to improve authority and organic growth.  
+5. Export results for team/client review.  
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions!  
+
+1. Fork the repo  
+2. Create a feature branch (`git checkout -b feature-name`)  
+3. Commit changes (`git commit -m "Add feature"`)  
+4. Push to branch (`git push origin feature-name`)  
+5. Open a Pull Request  
+
+---
+
+## 🐞 Bug Reporting
+
+If you encounter issues:
+- Open a GitHub Issue with details.  
+- Include screenshots, error logs, and steps to reproduce.  
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** — free to use, modify, and distribute with attribution.
+
+---
+
+## 👨‍💻 Author
+
+**Anupam Mondal**  
+- Full Stack Developer & Technical Consultant  
+- 14+ years professional experience in IT & Web Development  
+- Specialized in SEO, Chrome Extensions, WordPress Plugins, and Business Growth Tools  
+```
+
+---
